@@ -1,6 +1,10 @@
 # gamingappui
 
-A new Flutter application.
+A new Flutter Gaming Application
+
+# Pics
+
+<img src="https://user-images.githubusercontent.com/73787635/132897740-44c3c659-6fd1-448a-b19e-fd6fa508b289.jpeg" height = 490, width = 280/>
 
 ## Getting Started
 
